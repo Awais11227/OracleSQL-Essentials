@@ -1,0 +1,2 @@
+# MySQL-Exercises
+Solved Exercises
