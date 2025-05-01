@@ -1,45 +1,59 @@
-# MySQL-Exercises
-Solved Exercises
+🟣**Oracle SQL Database – Exercises & Solutions**
+A comprehensive collection of solved exercises to help you master Oracle SQL — from beginner-friendly SELECT statements to advanced topics like subqueries, triggers, and set operators.
 
----
+📚**Topics Covered**
+✅ Basic Queries (SELECT, WHERE, ORDER BY)
 
-## 📚 Topics Covered:
-- Basic SQL Queries (SELECT, WHERE, ORDER BY)
-- Joins (INNER, LEFT, RIGHT, FULL)
-- Aggregate Functions (SUM, AVG, COUNT, etc.)
-- Subqueries and Nested Queries
-- GROUP BY and HAVING
-- Set Operators (UNION, INTERSECT)
-- Views and Indexes
-- Data Definition Language (DDL)
-- Data Manipulation Language (DML)
-- Stored Procedures, Functions, and Triggers
+✅ Joins (INNER, LEFT, RIGHT, FULL OUTER)
 
----
+✅ Aggregate Functions (SUM, AVG, COUNT, etc.)
 
-## 🚀 How to Use:
-1. Start by running the scripts in the `/setup/` folder to prepare your database.
-2. Attempt solving the problems listed in `/exercises/`.
-3. Verify or learn from the solutions in `/solutions/`.
-4. Practice more by modifying and experimenting with the queries!
+✅ GROUP BY and HAVING Clauses
 
----
+✅ Subqueries & Nested Queries
 
-## 🎯 Goal of This Repository:
-- Build strong SQL problem-solving skills.
-- Prepare for technical interviews and exams.
-- Provide a reference guide for working with MySQL.
+✅ Set Operators (UNION, INTERSECT, MINUS)
 
----
+✅ Views, Indexes, and Sequences
 
-## 🤝 Contributions:
-Feel free to **fork** this repository, **add more exercises**, or suggest improvements through **pull requests**! 🙌
+✅ DDL: CREATE, ALTER, DROP
 
----
+✅ DML: INSERT, UPDATE, DELETE
 
-## 📜 License:
-This repository is open for educational purposes. Attribution is appreciated but not mandatory.
+✅ PL/SQL Basics – Procedures, Functions, Triggers
 
----
+🚀**How to Use**
+Set up the schema using the SQL scripts in the /setup/ directory (based on Oracle's HR-style structure).
 
-> ✨ Happy Learning and Happy Querying! ✨
+Explore the problems under /exercises/ — these are designed for practice and revision.
+
+Check your answers or learn from the /solutions/ folder.
+
+Customize or expand the queries to deepen your understanding.
+
+🎯 **Repository Goals**
+Strengthen real-world Oracle SQL problem-solving.
+
+Prepare for technical interviews and academic exams.
+
+Provide a structured and practical reference for Oracle database learners.
+
+💡**Requirements**
+Oracle Database (11g or above recommended)
+
+SQL Developer or any Oracle-compatible client
+
+🤝 **Contributions Welcome!**
+Have new exercises? Found a better approach?
+Feel free to:
+
+Fork this repo 🔀
+
+Add exercises or solutions 📥
+
+Submit a Pull Request 💡
+
+Let’s make this a go-to resource for all SQL learners!
+
+📜 **License**
+This repository is open for educational use. Attribution is appreciated. No commercial use without permission.
