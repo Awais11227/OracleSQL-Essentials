@@ -35,7 +35,7 @@ SELECT department_id, location_id FROM departments;
 SELECT last_name, salary * commission_pct * 12 AS annual_commission FROM employees;
 
 -- QUESTION NO.5
---  Using column aliases:
+--  Using column aliases
 SELECT last_name AS name, commission_pct AS comm FROM employees;
 
 
