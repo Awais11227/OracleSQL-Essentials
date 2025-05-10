@@ -1,4 +1,4 @@
-
+-- By Awais Manzoor
 -- QUESTION NO : 35
 --  Find the average salary by job title.
 SELECT job_id, AVG(salary) AS average_salary
