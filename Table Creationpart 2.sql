@@ -14,14 +14,14 @@ ADD JOB_ID VARCHAR2(10);
 ALTER TABLE DEPT80
 MODIFY last_name VARCHAR2(30);
 
--- Query No 02
+-- Query No 03
 -- Dropping a Column
 -- drop a column named JOB_ID from the DEPT80 table.
 
 ALTER TABLE DEPT80
 DROP COLUMN JOB_ID;
 
-
+-- Query No 04
 -- Dropping a Table
 -- drop the DEPT80 table using the DROP TABLE statement.
 DROP TABLE DEPT80;
